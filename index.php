@@ -1,4 +1,10 @@
+<?php
+$servername = "localhost";
+$username = "root"; // Replace with your database username
+$password = ""; // Replace with your database password
+$dbname = "user_registration"; // Database name
 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
